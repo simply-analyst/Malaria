@@ -17,4 +17,5 @@ The primary objective of the project are as follows:
 -	There was a noticeable increase in the total number of reported cases worldwide.
 -	Nigeria recorded the lowest number of deaths caused by Malaria in 2010 (4,238).
 
-### See python file for more information.
+### Note
+See python file for more information.
